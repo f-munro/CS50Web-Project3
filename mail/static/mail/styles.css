@@ -1,0 +1,13 @@
+.emails {
+    display: flex;
+    border: 0.5px solid rgb(224, 220, 220);
+    border-radius: 5px;
+    padding: 5px 20px 5px 20px;
+}
+.readtrue {
+    background-color: rgb(240, 240, 240);
+}
+
+.readfalse {
+    background-color: white;
+}
